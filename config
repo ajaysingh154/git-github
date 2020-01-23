@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	worktree = /
+[remote "origin"]
+	url = https://github.com/ajaysingh154/git-github.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

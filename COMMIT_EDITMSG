@@ -1,0 +1,26 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	ajay/
+#	bin
+#	boot/
+#	dev/
+#	etc/
+#	home/
+#	lib
+#	mnt/
+#	proc/
+#	root/
+#	run/
+#	sbin
+#	swapfile
+#	sys/
+#	test/
+#	testingfil.tx
+#	tmp/
+#	usr/
+#	var/
